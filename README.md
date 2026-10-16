@@ -21,7 +21,9 @@ Os masters editáveis são composições SVG com a marca raster incorporada, ent
 
 ## Publicação
 
-GitHub Pages, branch `main`, pasta `/`. Todos os caminhos de arquivos são relativos para funcionar em `/forja_branding/`.
+GitHub Pages, branch `release`, pasta `/`. A branch `main` mantém o código; `release` contém a versão publicada no mesmo repositório.
+
+Página: https://forjastudio3d.github.io/forja_branding/ Todos os caminhos de arquivos são relativos para funcionar em `/forja_branding/`.
 
 ## Validação
 

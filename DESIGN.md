@@ -47,7 +47,7 @@ O fim do CSS fixa em 14px os textos de uso, orientações, original e fechamento
 
 ## Layout
 `.wrap`: máximo 1240px e largura `calc(100% - 112px)`; gutters totais de 64px até 1023px e 40px até 639px.
-Hero desktop: colunas `1.05fr 1fr`, gap 70px; arte quadrada inclinada 3° com companheira redonda sobreposta a −7°. Mobile: uma coluna, CTA de largura total e arte com 85% de largura.
+Hero desktop: colunas `1.05fr 1fr`, gap 70px; arte quadrada inclinada 3° com companheira redonda sobreposta a −7°. Mobile: uma coluna, CTA de largura total e arte com 85% de largura; o círculo fica 72px acima da base para liberar a legenda.
 Galeria: três colunas, gaps 26px × 42px; duas até 1023px e uma até 639px. Todo palco é quadrado, inclusive o de banners; imagens usam `object-fit:contain` e preservam proporção.
 Até 639px, navegação do header fica oculta; filtros empilham, orientações viram uma coluna e ações finais ocupam toda a largura. A partir de 1600px o hero tem altura mínima de 700px.
 Dialog: largura máxima 980px, margem de viewport 20px, rolagem interna; mobile reduz margem para 10px e canvas para 42dvh.

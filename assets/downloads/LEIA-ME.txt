@@ -1,0 +1,14 @@
+FORJA STUDIO 3D | ARQUIVOS DE MARCA
+
+Use o PNG transparente quando o material ja tiver um fundo.
+Use Carvao ou Marfim para uma arte pronta, com fundo e acabamento.
+As artes redondas sao PNG com cantos transparentes.
+Quadrados: 1800 x 1800 px. Banners: 2400 x 800 px.
+O original transparente tambem esta incluido: 1139 x 380 px.
+
+Todas as versoes preservam o texto oficial dourado/bronze.
+A marca original e raster; exportacoes maiores nao criam detalhe vetorial.
+Para impressao grande, valide tamanho e prova com a grafica.
+Nao distorca, recorte letras ou altere as proporcoes.
+
+Origem SHA256: a920508c668f317b0cad6fa7d496c766715c1110090d765e11689ae167dba84e

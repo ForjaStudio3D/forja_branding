@@ -1,0 +1,201 @@
+{
+  "source": {
+    "file": "forja-oficial-original.png",
+    "width": 1139,
+    "height": 380,
+    "sha256": "a920508c668f317b0cad6fa7d496c766715c1110090d765e11689ae167dba84e"
+  },
+  "assets": [
+    {
+      "id": "quadrado-carvao",
+      "format": "quadrado",
+      "name": "Quadrado",
+      "finish": "carvao",
+      "finishName": "Carvão",
+      "width": 1800,
+      "height": 1800,
+      "use": "Posts, materiais de divulgação e espaços quadrados.",
+      "hasAlpha": false,
+      "preview": "assets/previews/quadrado-carvao.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-quadrado-carvao.png",
+          "bytes": 2746451
+        },
+        {
+          "type": "JPG",
+          "file": "forja-quadrado-carvao.jpg",
+          "bytes": 886962
+        }
+      ]
+    },
+    {
+      "id": "quadrado-marfim",
+      "format": "quadrado",
+      "name": "Quadrado",
+      "finish": "marfim",
+      "finishName": "Marfim",
+      "width": 1800,
+      "height": 1800,
+      "use": "Posts, materiais de divulgação e espaços quadrados.",
+      "hasAlpha": false,
+      "preview": "assets/previews/quadrado-marfim.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-quadrado-marfim.png",
+          "bytes": 2438229
+        },
+        {
+          "type": "JPG",
+          "file": "forja-quadrado-marfim.jpg",
+          "bytes": 561709
+        }
+      ]
+    },
+    {
+      "id": "quadrado-transparente",
+      "format": "quadrado",
+      "name": "Quadrado",
+      "finish": "transparente",
+      "finishName": "Transparente",
+      "width": 1800,
+      "height": 1800,
+      "use": "Posts, materiais de divulgação e espaços quadrados.",
+      "hasAlpha": true,
+      "preview": "assets/previews/quadrado-transparente.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-quadrado-transparente.png",
+          "bytes": 635747
+        }
+      ]
+    },
+    {
+      "id": "redondo-carvao",
+      "format": "redondo",
+      "name": "Redondo",
+      "finish": "carvao",
+      "finishName": "Carvão",
+      "width": 1800,
+      "height": 1800,
+      "use": "Avatares, selos e áreas de patrocínio circulares.",
+      "hasAlpha": true,
+      "preview": "assets/previews/redondo-carvao.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-redondo-carvao.png",
+          "bytes": 2544874
+        }
+      ]
+    },
+    {
+      "id": "redondo-marfim",
+      "format": "redondo",
+      "name": "Redondo",
+      "finish": "marfim",
+      "finishName": "Marfim",
+      "width": 1800,
+      "height": 1800,
+      "use": "Avatares, selos e áreas de patrocínio circulares.",
+      "hasAlpha": true,
+      "preview": "assets/previews/redondo-marfim.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-redondo-marfim.png",
+          "bytes": 2341852
+        }
+      ]
+    },
+    {
+      "id": "redondo-transparente",
+      "format": "redondo",
+      "name": "Redondo",
+      "finish": "transparente",
+      "finishName": "Transparente",
+      "width": 1800,
+      "height": 1800,
+      "use": "Avatares, selos e áreas de patrocínio circulares.",
+      "hasAlpha": true,
+      "preview": "assets/previews/redondo-transparente.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-redondo-transparente.png",
+          "bytes": 669897
+        }
+      ]
+    },
+    {
+      "id": "banner-carvao",
+      "format": "banner",
+      "name": "Banner",
+      "finish": "carvao",
+      "finishName": "Carvão",
+      "width": 2400,
+      "height": 800,
+      "use": "Cabeçalhos, faixas e assinaturas horizontais.",
+      "hasAlpha": false,
+      "preview": "assets/previews/banner-carvao.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-banner-carvao.png",
+          "bytes": 1791748
+        },
+        {
+          "type": "JPG",
+          "file": "forja-banner-carvao.jpg",
+          "bytes": 586220
+        }
+      ]
+    },
+    {
+      "id": "banner-marfim",
+      "format": "banner",
+      "name": "Banner",
+      "finish": "marfim",
+      "finishName": "Marfim",
+      "width": 2400,
+      "height": 800,
+      "use": "Cabeçalhos, faixas e assinaturas horizontais.",
+      "hasAlpha": false,
+      "preview": "assets/previews/banner-marfim.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-banner-marfim.png",
+          "bytes": 1607779
+        },
+        {
+          "type": "JPG",
+          "file": "forja-banner-marfim.jpg",
+          "bytes": 416125
+        }
+      ]
+    },
+    {
+      "id": "banner-transparente",
+      "format": "banner",
+      "name": "Banner",
+      "finish": "transparente",
+      "finishName": "Transparente",
+      "width": 2400,
+      "height": 800,
+      "use": "Cabeçalhos, faixas e assinaturas horizontais.",
+      "hasAlpha": true,
+      "preview": "assets/previews/banner-transparente.webp",
+      "files": [
+        {
+          "type": "PNG",
+          "file": "forja-banner-transparente.png",
+          "bytes": 735429
+        }
+      ]
+    }
+  ]
+}

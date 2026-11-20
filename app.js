@@ -47,7 +47,10 @@ document.querySelectorAll('[data-preview]').forEach(button => {
   button.addEventListener('click', () => {
     const asset = catalog.assets.find(item => item.id === button.dataset.preview);
     document.getElementById('preview-title').textContent = `${asset.name} · ${asset.finishName}`;
-    document.getElementById('preview-meta').textContent = `${asset.files.map(file => file.type).join(" / ")} · ${asset.width} × ${asset.height} px${asset.hasAlpha ? ' · Com transparência' : ' · Arte com fundo'}`;
+    const dimensions = asset.vector
+      ? `${asset.widthMm.toLocaleString('pt-BR')} × ${asset.heightMm.toLocaleString('pt-BR', { maximumFractionDigits: 2 })} mm · Vetorial`
+      : `${asset.width} × ${asset.height} px`;
+    document.getElementById('preview-meta').textContent = `${asset.files.map(file => file.type).join(" / ")} · ${dimensions}${asset.hasAlpha ? ' · Com transparência' : ' · Arte com fundo'}`;
     // Full-resolution download asset is loaded only on demand.
     previewImage.src = `assets/downloads/${asset.files[0].file}`;
     previewImage.alt = `Logo Forja Studio 3D, formato ${asset.name.toLowerCase()}, acabamento ${asset.finishName.toLowerCase()}`;

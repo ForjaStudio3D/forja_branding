@@ -196,6 +196,35 @@
           "bytes": 735429
         }
       ]
+    },
+    {
+      "id": "carimbo-grafica",
+      "format": "carimbo",
+      "name": "Carimbo para gráfica",
+      "finish": "transparente",
+      "finishName": "Transparente",
+      "width": 2684,
+      "height": 1603,
+      "widthMm": 56.8,
+      "heightMm": 33.9131,
+      "vector": true,
+      "use": "Carimbos, etiquetas e impressão em uma cor. Letras em contornos e Instagram abaixo da moldura.",
+      "hasAlpha": true,
+      "preview": "assets/previews/carimbo-grafica.webp",
+      "files": [
+        {
+          "type": "SVG",
+          "file": "forja-completo-instagram-grafica.svg",
+          "bytes": 65800,
+          "sha256": "134685052212f4dcb803de444449fcd9bbfc8c2e5ab40847e0cfd28164c6cf16"
+        },
+        {
+          "type": "PNG",
+          "file": "forja-completo-instagram-grafica.png",
+          "bytes": 101547,
+          "sha256": "35a2633c3567bdcb3d150592e9c31adbe4168c0dce92f40076c98ab2336bc100"
+        }
+      ]
     }
   ]
 }
